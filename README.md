@@ -1,1 +1,2 @@
-# Udacity_MLE_MLF
+# Udacity Machine Learning Nanodegree Program
+Project of Boston Housing Prediction
